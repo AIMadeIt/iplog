@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #202124; /* Dark background similar to Google's image viewer */
+}
+
+.container {
+    text-align: center;
+}
+
+.container img {
+    max-width: 100%;
+    max-height: 100%;
+}
